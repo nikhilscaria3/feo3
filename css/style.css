@@ -535,6 +535,7 @@ button {
 .about_img {
     width: 40%;
     float: left;
+    margin-left: 7rem;
 }
 
 
@@ -584,9 +585,7 @@ iframe{
 }
 
 .play_icon {
-    width: 200px;
-    margin: 0 auto;
-    position: absolute;
+   
     z-index: 5;
 }
 
